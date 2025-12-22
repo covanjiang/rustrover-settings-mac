@@ -1,0 +1,11 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Project Classes" />
+    <option name="defaultScopeName" value="All Project Classes" />
+    <option name="SEARCH_SCOPE" value="All Project Classes" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.rs</mask>
+  </component>
+</application>
