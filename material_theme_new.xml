@@ -69,6 +69,16 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
+            <entry key="Islands Dark">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="Islands Light">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
             <entry key="JetBrainsHighContrastTheme">
               <value>
                 <MTFavoriteTheme />
@@ -186,7 +196,7 @@
     <option name="metadata">
       <MTMetadataState>
         <option name="userId" value="216ca8cf:19941b4875b:-8000" />
-        <option name="version" value="10.3.1" />
+        <option name="version" value="10.4.0" />
         <option name="wizardShown" value="true" />
       </MTMetadataState>
     </option>
