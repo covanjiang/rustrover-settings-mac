@@ -23,17 +23,4 @@
     <option name="FILESTATUS_SWITCHED" value="AB9DF2" />
     <option name="FILESTATUS_UNKNOWN" value="F59762" />
   </colors>
-  <attributes>
-    <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="32b8af" />
-      </value>
-    </option>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="43454a" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-  </attributes>
 </scheme>

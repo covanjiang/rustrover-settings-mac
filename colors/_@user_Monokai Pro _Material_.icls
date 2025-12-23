@@ -23,7 +23,7 @@
   <colors>
     <option name="DIAGRAM_NODE_HEADER" value="5B595C" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="627982" />
-    <option name="DOCUMENTATION_COLOR" value="FFFFFF" />
+    <option name="DOCUMENTATION_COLOR" value="" />
     <option name="ERROR_HINT" value="781732" />
     <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
     <option name="INFORMATION_HINT" value="FFFFFF" />
