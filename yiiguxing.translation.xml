@@ -1,0 +1,16 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1767601253340" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Returns `Err(..)` upon fatal errors. Otherwise, returns `Ok(true)` on full success and `Ok(false)` if any intermediate errors occurred (were printed)." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE_SIMPLIFIED" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
